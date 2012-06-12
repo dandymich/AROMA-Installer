@@ -38,9 +38,9 @@ text_quit_msg=¿Seguro que quieres salir?
 #
 common.for=para
 
-langtest.title=Prueba de Lenguaje
+langtest.title=Prueba de Idioma
 langtest.multiline=Este texto está en langs/es.lang\
-Usa la barra invertida al final del texto para marcar el salto de línea\
+Usa la diagonal invertida al final del texto para marcar un salto de línea\
 \
 También puedes aplicar <b>Formato</b> al texto.\
 \
@@ -54,7 +54,7 @@ themes.desc=Por favor, selecciona el tema gráfico que quieres usar en esta prue
 
 welcome.title=Bienvenido
 welcome.text1=Estás a punto de instalar
-welcome.text2=AROMA Installer fue el primer y el único instalador del mundo táctil y personalizable para ROMs Android.
+welcome.text2=AROMA Installer fue el primer y único instalador táctil y personalizable para ROMs Android del mundo.
 welcome.version=VERSIÓN
 welcome.codename=CODENAME
 welcome.updated=ACTUALIZADO
@@ -62,7 +62,7 @@ welcome.next=Pulsa Siguiente para continuar la instalación...
 
 terms.title=Términos y Condiciones
 terms.desc=Por favor, lea cuidadosamente los términos y condiciones de AROMA Installer.
-terms.check=Estoy de acuerdo con estos Términos y Condiciones...
+terms.check=Estoy de acuerdo con los Términos y Condiciones...
 terms.confirm=Por favor, revise el acuerdo...
 
 changelog.title=Historial de cambios
